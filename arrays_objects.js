@@ -19,5 +19,7 @@ var slang = ["scrap", "kobe beef", "da kine", "li day", "pau hana"];
 
 var donut = {
 	topppings : ["spinkle","chocolate frosting", "o'hare air"],
-	fillings : "Custard"
+	fillings : "Custard";
+	shape : "square";
+	count : 12
 }
